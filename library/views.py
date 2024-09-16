@@ -302,6 +302,18 @@ class SuggestedBooksView(APIView):
 
         serializer = BookSerializer(recommended_books, many=True)
         return Response({'suggestions': serializer.data}, status=status.HTTP_200_OK)
+    
+
+
+
+class FavoriteBooksAPIView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        profile = Profile.objects.get(user=request.user)
+        favorite_books = profile.favourites.all()
+        serializer = BookSerializer(favorite_books, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
 
 
