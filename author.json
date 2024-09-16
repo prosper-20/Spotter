@@ -1,0 +1,245 @@
+[
+{
+    "model": "library.author",
+    "pk": 1,
+    "fields": {
+        "full_name": "Richard A. Brealey",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 2,
+    "fields": {
+        "full_name": "Stewart C. Myers",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 3,
+    "fields": {
+        "full_name": "Franklin Allen",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 4,
+    "fields": {
+        "full_name": "Peter Norvig",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 5,
+    "fields": {
+        "full_name": "Brian W. Kernighan",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 6,
+    "fields": {
+        "full_name": "Dennis M. Ritchie",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 7,
+    "fields": {
+        "full_name": "Thomas H. Cormen",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 8,
+    "fields": {
+        "full_name": "Charles E. Leiserson",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 9,
+    "fields": {
+        "full_name": "Ronald L. Rivest",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 10,
+    "fields": {
+        "full_name": "Clifford Stein",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 11,
+    "fields": {
+        "full_name": "Erich Gamma",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 12,
+    "fields": {
+        "full_name": "Richard Helm",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 13,
+    "fields": {
+        "full_name": "Ralph Johnson",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 14,
+    "fields": {
+        "full_name": "John Vlissides",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 15,
+    "fields": {
+        "full_name": "Sheryl Sandberg",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 16,
+    "fields": {
+        "full_name": "Nell Scovell",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 17,
+    "fields": {
+        "full_name": "Abraham Silberschatz",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 18,
+    "fields": {
+        "full_name": "Peter Baer Galvin",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 19,
+    "fields": {
+        "full_name": "Greg Gagne",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 20,
+    "fields": {
+        "full_name": "Paul Newbold",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 21,
+    "fields": {
+        "full_name": "William L. Carlson",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 22,
+    "fields": {
+        "full_name": "Betty Thorne",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 23,
+    "fields": {
+        "full_name": "Robert C. Martin",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 24,
+    "fields": {
+        "full_name": "Dean Wampler",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 25,
+    "fields": {
+        "full_name": "Andrew S. Tanenbaum",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 26,
+    "fields": {
+        "full_name": "Herbert Bos",
+        "date_of_birth": null,
+        "bio": ""
+    }
+},
+{
+    "model": "library.author",
+    "pk": 27,
+    "fields": {
+        "full_name": "Stuart Russell",
+        "date_of_birth": null,
+        "bio": ""
+    }
+}
+]

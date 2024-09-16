@@ -1,0 +1,149 @@
+[
+{
+    "model": "library.book",
+    "pk": 1,
+    "fields": {
+        "title": "Principles of Corporate Finance",
+        "slug": "principles-of-corporate-finance",
+        "publication_date": null,
+        "isbn": "9780073530734",
+        "author": [
+            1,
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 2,
+    "fields": {
+        "title": "Artificial Intelligence: A Modern Approach",
+        "slug": "artificial-intelligence-a-modern-approach",
+        "publication_date": null,
+        "isbn": "9780134610993",
+        "author": [
+            4,
+            27
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 3,
+    "fields": {
+        "title": "The C Programming Language",
+        "slug": "the-c-programming-language",
+        "publication_date": null,
+        "isbn": "9780131103627",
+        "author": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 4,
+    "fields": {
+        "title": "Introduction to Algorithms",
+        "slug": "introduction-to-algorithms",
+        "publication_date": null,
+        "isbn": "9780262033848",
+        "author": [
+            7,
+            8,
+            9,
+            10
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 5,
+    "fields": {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "slug": "design-patterns-elements-of-reusable-object-oriented-software",
+        "publication_date": null,
+        "isbn": "9780201633610",
+        "author": [
+            11,
+            12,
+            13,
+            14
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 6,
+    "fields": {
+        "title": "Lean In: Women, Work, and the Will to Lead",
+        "slug": "lean-in-women-work-and-the-will-to-lead",
+        "publication_date": null,
+        "isbn": "9780385349949",
+        "author": [
+            15,
+            16
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 7,
+    "fields": {
+        "title": "Operating System Concepts",
+        "slug": "operating-system-concepts",
+        "publication_date": null,
+        "isbn": "9781118063330",
+        "author": [
+            17,
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 8,
+    "fields": {
+        "title": "Statistics for Business and Economics",
+        "slug": "statistics-for-business-and-economics",
+        "publication_date": null,
+        "isbn": "9780132745659",
+        "author": [
+            20,
+            21,
+            22
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 9,
+    "fields": {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "slug": "clean-code-a-handbook-of-agile-software-craftsmanship",
+        "publication_date": null,
+        "isbn": "9780132350884",
+        "author": [
+            23,
+            24
+        ]
+    }
+},
+{
+    "model": "library.book",
+    "pk": 10,
+    "fields": {
+        "title": "Modern Operating Systems",
+        "slug": "modern-operating-systems",
+        "publication_date": null,
+        "isbn": "9780133591620",
+        "author": [
+            25,
+            26
+        ]
+    }
+}
+]
